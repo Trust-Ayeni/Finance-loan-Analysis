@@ -1,4 +1,4 @@
-# Finance loan Analysis and Prediction
+# Finance Loan Analysis and Prediction 💰💸
 
 To get more info on the kaggle dataset please [visit](https://www.kaggle.com/datasets/granjithkumar/loan-approval-data-set)
 
